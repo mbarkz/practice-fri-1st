@@ -1,0 +1,40 @@
+header {
+    background-color: #5D2A42;
+    overflow: hidden;
+}
+
+.nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: right;
+    vertical-align: middle;
+    margin: 10px;
+    overflow: hidden;
+
+}
+
+.logo {
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: left;
+    margin: 10px;
+    overflow: hidden;    
+}
+
+.main {
+    background-color: #FFF9EC; 
+
+}
+
+footer {
+    background-color: #5D2A42;
+    overflow: hidden;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    vertical-align: middle;
+    overflow: hidden;
+
+}
+
+h2 { 
+    overflow: hidden;
+    float: right ;
+}
